@@ -81,7 +81,7 @@ pre {
 	overflow: auto;
 }
 
-<<<<<<< HEAD
+
 /* font declarations */
 @font-face {
     font-family: 'bitter';
@@ -160,7 +160,7 @@ pre {
     font-weight: normal;
     font-style: normal;
 }
-=======
+
 /* Specific elements
  ========================================================================*/
 header,main,footer {
@@ -189,7 +189,6 @@ header h1 {
    padding: 2em;
    font-size: 0.8em;
  }
->>>>>>> bugFix
 
 /* Forms
    ========================================================================== */
